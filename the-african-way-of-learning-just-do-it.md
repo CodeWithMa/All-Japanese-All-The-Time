@@ -1,0 +1,68 @@
+---
+title: "The African Way of Learning…Just Do It"
+---
+
+This is such a huge topic I don’t know how to…even explain it really. Or where to start. But I’ll try my best.
+
+Let me first start with what motivated me to write this post. I was skimming Yahoo Answers/Bag O’ Wisdom in Japanese on my cellphone, and I came across this sentence:
+
+> 本格的にゴスペルを習いたいと思っています。  
+> l’d like to get serious about learning gospel music/seriously learn gospel music.
+
+This person isn’t a bad person or anything. But the sentence just struck me as “off”. “Wrong”.
+
+Why?
+
+Well, because gospel music is an art that was invented and is still dominated by Africans. And therefore the methods for learning it are distinctly African. Interestingly, jazz music was also invented by Africans, but as the number of African jazz artists has dwindled with the influx of non-Africans, so the methods of learning it have seen a change as well: nevertheless, I find it almost nonsensical that people would even attempt to “teach” improvisation or syncopation: “here, let me teach you how to ‘wing it’” — huh?. And one of the things about the African way of learning is that you don’t “learn” as such. You…do, and through doing, become.
+
+Do you get what I’m saying? Does this make sense? I’m walking a very fine line here. Um…
+
+There’s no textbook of gospel music that enumerates the various styles and sounds of gospel music with a step-by-step historical introduction and a chapter devoted to defining what is and is not gospel music, and various “grades” of gospel music. Dude, I don’t even know how many gospel music artists use annotated music.
+
+But does that mean it’s not music? Does that mean it’s not good? Does that mean people don’t know what they’re doing? Absolutely not. I’m not even Christian, but you need only go to a church that has gospel music and compare it to a church that doesn’t, and see that there’s a huuuuuuuuuuuuuuuuuge, red-giant-about-to-go-nova-size gap in musical quality.
+
+What about basketball? Lots of Africans in the US play it for fun. Hours and hours of ball with their friends.
+
+And what do we say about all these Africans?
+
+We say they’re “talented”. It’s “genetic”. They’re “tall”. They have “fast-twitch muscles”. They have “big hands”.
+
+Really?
+
+Really?
+
+Because it couldn’t be that, oh, they’ve put in thousands of hours of _enjoyable_ practice? Heaven forbid their bodies might have changed as a result of all this practice (just because it looks effortless, that doesn’t mean there was no effort involved)? It couldn’t be that it was the only thing that seemed fun to do? It couldn’t be that certain Kenyans live at 2500m above sea level, eat more fresh vegetables than the Fresh Vegetable Monster on _Sesame Street_ [there is no such monster, but if there were, he would have nothing on a Kenyan dinner bowl], and run to school all their childhoods and then join the military where it just so happens that they keep exercising [lots of Kenyan runners, like Moses "I eat 3000m steeplechase world records for breakfast" Kiptanui are or were military personnel], and have immense financial motivation to run, a motivation only made more immense by the fact that since cost of living is so low in Kenya, chump change like $1 million can keep you living in comfort for not one but several lifetimes. No, that couldn’t be it. Because they’re not sensitive, unique, individual human beings with psychological, social and economic motivations. No, they’re not human beings at all; they’re just specimens; little more than rabbits that can talk. They do well at the things they do well because of nothing but instinct.
+
+Right…
+
+OK, I’m going a bit off topic, and perhaps sounding bitter, but this is a massive subject, and it’s worth more than one post; it’s worth its own book; it’s worth its own entire research field. But I’m going to keep it short, because I don’t feel like writing too much ![8)](https://web.archive.org/web/20100515130856im_/http://www.alljapaneseallthetime.com/blog/wp-includes/images/smilies/icon_cool.gif) .
+
+What am I trying to get at? Well…
+
+The way of learning that is now dominant in the West is motivated by two ideals: classification and reductionism. Reduce everything to its parts, classify it according to those parts. And this isn’t a bad thing; it has its place. When it’s useful, it’s _very_ useful [see _Heisig_ for details]. But when it’s not, it sucks Type-A bird-flu infested eggs. Why? Because it tends to lead to a fallacy known as **reification**. Making something that is not the _res_, “the thing itself”, into the thing itself. The methods of learning that now dominate the West have led people to confuse the classification, the explanation, the description of a thing, with the thing. So, when a Western person comes and says “Cantonese has nine tones” [you know it's a Western person who did this ![:)](https://web.archive.org/web/20100515130856im_/http://www.alljapaneseallthetime.com/blog/wp-includes/images/smilies/icon_smile.gif) -- I'm being facetious, but seriously, I find it painfully hard to imagine a Chinese person back in the day losing winks tone-counting], “Chinese has X # of characters”, “In Navajo, you can make XYZ grammar structure”, “Japanese has THREE alphabets”, “The Japanese speak BACKWARDS”, “In Swahili, there are noun classifiers used as prefixes”, and my personal favorite:
+
+> Dholuo is a tone language. There is both lexical tone and grammatical tone, e.g., in the formation of passive verbs. It has vowel harmony by ATR status: the vowels in a noncompound word must be either all [+ATR] or all [-ATR]. The ATR harmony requirement extends to the semivowels /w, y/. Vowel length is contrastive.
+
+Dude, I am a native speaker of Dholuo [through disuse I understand tons more than I speak now, but if I went home, I'd take care of it] and I had NO IDEA that Dholuo was tonal, I just thought that was how it sounded; that was the only way there was to pronounce those words; there _is_ no other way. My Mum told me when she came to Japan last year (2006) and was teaching some to Momoko: “yeah, dude, Dholuo is tonal, just like that Chinese of yours”. This struck a chord with me, and has affected the way I’ve decided to approach Cantonese.
+
+I am also a native speaker of Swahili [also getting rusty through disuse -- as with Dholuo, living in countries and situations where I never talk to fellow native speakers has taken its toll] and I didn’t find out about the noun classifier thing until I got into college in the US. I thought that was just how you were supposed to say the words; there could be no other way.
+
+Can you see what I mean? **Discussion ABOUT language, no matter how detailed, erudite or numerical, is not, cannot and will never be language itself**. The belief that it is is the source of all difficulty and calamity. The typical student of Latin today probably knows more about Latin than most Roman citizens ever did; I can just see Roman kids all: “hey, Quintus, what’s the ablative singular on that, bro?”, but still could barely comprehend a raw Latin text let alone use the language. Put another way, you could be fluent in Japanese without ever knowing ABOUT Japanese, but you could never be fluent in Japanese only by knowing about it. This was never more vividly illustrated than when, last weekend, I went to my Sengalese friend, B-star’s house. B-star came to Japan aged 27, 7 years ago. Not a word of Japanese. He’s now completely fluent. We talked to each other in Japanese, he told me:
+
+> “When I first came to Japan, I went to a Japanese school and looked at the books, but it just kind of sucked, you know? So I was like…this isn’t going to work; I’m not going to learn this way; I just have to go out there and figure it out. Pretty soon I was speaking, and people asked me ‘how did you learn?’, I said: ‘I don’t know! Not even I know!’”.
+
+Later in the evening we were watching a Bruce Lee movie in Cantonese, and he said:
+
+> “Once I was hanging out with some Chinese guys, and after a while, I started saying things to them in Chinese. And they said: ‘how did you do that?’; and I said: ‘**I listened**‘”.
+
+Anyway, B-star isn’t the star of this tale, his four-year-old daughter is. She was talking circles around some people who had taken university-level Japanese. Because children have magical language midichlorians? Negatory…I think it has more to do with the fact that B-star’s daughter doesn’t know what a base 5 verb is (as a matter of fact, _I’m_ not sure what this bases business is).
+
+So knowing the path and walking the path are clearly two different things. Knowing what you’re doing and knowing about what you’re doing are two different things. I mean, I could write you volumes (no, I really could) about iconicism, subtext and hyper-realism in _Toy Story_ but does that mean _Toy Story_ is hard to watch? NO, for crying out loud it’s a freaking children’s movie. **A thing is not its abstraction**. A description or abstraction can be useful, until it isn’t, at which point it becomes little more than a legend, a ghost story whose only real purpose is to impress and/or intimidate.
+
+So here is the African Way: stop freaking worrying, stop reading ABOUT it, stop pussyfooting around poring over the rulebook, pick up a ball and go DO IT! Or **shut up and watch how it’s done, and try your own little versions of each cool thing you see**. Language is not hard. Yes, LANGUAGE IS EASY. ALL LANGUAGES. Anyone who doesn’t shoot themselves in the foot with bad methods or attitudes can learn any language. ANYONE. So chill out and just Nike it. Yes, even if you had no systematic method, if you were to spend the next 18-24 months, 24 hours a day, surrounded by one language to the absolute and total exclusion of all other languages, I am almost certain that it would be **impossible** for you to come out without fluency.
+
+I don’t think the way of learning I’m describing is limited to Africa or Africans, and it’s not the only way of learning that African civilizations have used. All civilizations use classification, all civilizations use reductionism, and all civilizations use _ad hoc_ learning [I think it's safe to say that, barring RIDICULOUS exceptions, all human beings learn their so-called "native" language using _ad hoc_, informal, immersive (Ai2) methods, the methods I have grouped under the "African" Way], but different civilizations tend to place more importance, faith, or prestige in certain styles of learning over others, which is stupid all around because our goal shouldn’t be to do the job in the most prestigious way, but merely to do the job. Anyway, the way I’m calling the African Way is definitely something that is culturally strong among Africans inside and outside Africa. Similarly, the so-called Western Way has been increasingly preferred by people in the West over the past 250-500 years. But Westerners have made the fatal mistake of applying it in places where it cannot or should not be applied, with the result that it now handicaps them; it hurts them; it keeps their minds so…bound.
+
+Case in point: Swahili is one of the easiest languages in the world to learn, it was invented by people in what later became Kenya and Tanzania, for the purposes of trade, it is as smooth as botox-laced eggs. YET, many Westerners who live in East Africa can’t speak it worth a darn, and whine about it. Why? It’s not because they’re bodies can’t do it; it’s because their minds won’t let their bodies do it. And this is why when a Kenyan friend came up to me and said: “Khatz, is Japanese hard? Can I learn it?”. I said: “Yes…just remember that you’re not a Westerner. To the extent that most of what you’ve read about Japanese has been written by Westerners, you can safely ignore it and just go about your business”. That sounds racist but it’s not meant to be, and I hope no one takes it that way (I was really freaking out about whether to write it or not). It’s just illustrative, in a way, of the whole point of this post. Ultimately, it’s not a matter of ethnicity, it’s a matter of worldview. Due to peer-group effects, worldview _happens_ to correlate geographically, but…not all Africans learn the African Way, and not all Westerners learn the Western Way, and no one is bound by blood or divine decree to any particular way — you can choose to play the game differently. I recommend you do. Choose, that is. Choose how to play the game based on the conditions. Choose the tools to get the job done. Believe in yourself, have faith in yourself. But don’t bother “believe”, as such in the tools and methods. Methods are for using or not using, not for believing in or agreeing with — remember that and you’ll save yourself a lot of wasted time and energy — for example, you realize that you need not bother defend your methods because they have no feelings. And you also realize that it’s simply good common sense to do the job in a fun, efficient way, regardless of whether that way is officially sanctioned as the “correct” way, regardless of what people tell you will or won’t happen.
+
+So if you want to be good at something, maybe you should let go of whatever reservations, ignorance, academic snobbishness, cultural superiority complex or cultural inferiority complex that may be holding you back, and just try it. Don’t think ABOUT it, don’t analyze it. Stop talking, stop arguing, stop considering, stop comparing and contrasting. Just do it.
