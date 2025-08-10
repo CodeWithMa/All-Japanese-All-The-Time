@@ -12,6 +12,7 @@ title: "Table of Contents / All Japanese All The Time Dot Com: How to learn Japa
 
 ### 0.1 For the Start of the Journey
 
+- [Advice On How To Take Advice (Including Mine)](04-how-to-take-advice-including-mine.md)
 - [How To Accomplish Great Things: Small Victories, Winnable Games](04-how-to-accomplish-great-things-small-victories-winnable-games.md)
 - [Comfort Zone, Growth Zone, Panic Zone and Situational Goals: Life Is Easier Than You Think](05-comfort-zone-growth-zone-panic-zone.md)
 - [Aim To Fail](06-aim-to-fail.md)

@@ -1,3 +1,7 @@
+---
+title: "About"
+---
+
 Hey! Thanks for visiting! This site is about how you can learn Japanese without taking classes, by having fun and doing things you enjoy—watching movies, playing video games, reading comic books—you know: fun stuff! Stuff that you feel guilty about doing because you should be doing “serious things”.
 
 ![[Pasted image 20230717195650.webp]]
