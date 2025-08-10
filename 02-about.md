@@ -22,4 +22,4 @@ Now, not everything works for everyone. But I believe that a lot of what you wil
 
 So, if you’re wanting to learn Japanese but don’t know where to start, or if you already know some but want to take it further, and if you want to not just get by in Japanese but to **own** it, than this site is here for you, to share with you the tools and information that you can use to learn Japanese to native-level fluency.
 
-[OK, let’s get into it!](./index.md)
+[OK, let’s get into it!](00-index.md)

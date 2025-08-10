@@ -1,4 +1,4 @@
-As I’ve [already mentioned](./about.md), I spent 18 months learning Japanese hardcore (still learning it softcore now that I live in Japan), and in that time I learned a lot about both Japanese and just life in general. I have lot to throw at you, and it’s best to do it piecemeal.
+As I’ve [already mentioned](02-about.md), I spent 18 months learning Japanese hardcore (still learning it softcore now that I live in Japan), and in that time I learned a lot about both Japanese and just life in general. I have lot to throw at you, and it’s best to do it piecemeal.
 
 Right, let’s give you an overview of the method I used to learn Japanese to fluency in 18 months. There’s no real magic to this way of learning, but it is effective, and you or anyone else could repeat it.
 
