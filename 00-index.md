@@ -16,8 +16,9 @@ title: "Table of Contents / All Japanese All The Time Dot Com: How to learn Japa
 - [How To Accomplish Great Things: Small Victories, Winnable Games](04-how-to-accomplish-great-things-small-victories-winnable-games.md)
 - [Comfort Zone, Growth Zone, Panic Zone and Situational Goals: Life Is Easier Than You Think](05-comfort-zone-growth-zone-panic-zone.md)
 - [Potheads, Planners and Players](05-potheads-planners-and-players)
-- 
+- [Tortoises and Hares](06-tortoises-and-hares)
 - [Aim To Fail](06-aim-to-fail.md)
 - [Cute Girls, Mathematics, Language](07-cute-girls-mathematics-language.md)
 - [The African Way of Learning…Just Do It](08-the-african-way-of-learning-just-do-it.md)
 - [10,000 Hours: Building Listening Comprehension](09-10000-hours-building-listening-comprehension.md)
+- [Desires and Decisions](010-desires-and-decisions.md)
